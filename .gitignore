@@ -1,0 +1,19 @@
+# env
+.venv/
+.env
+
+# data 
+data_processed/
+*.parquet
+*.db
+
+# notebook cache
+.ipynb_checkpoints/
+
+# python cache
+__pycache__/
+*.pyc
+
+# editor
+.vscode/
+.DS_Store
